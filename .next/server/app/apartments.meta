@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/apartments/layout,_N_T_/apartments/page,_N_T_/apartments"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1d8dee6d8bb1dbab428c271211a7700ab31d4ebc75ff4eee0290b990112b1a70/$/apartments",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/apartments/page"
+    },
+    "isFallback": false
+  }
+}

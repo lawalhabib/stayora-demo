@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/apartments/[id]/route": "/api/apartments/[id]",
+  "/api/apartments/route": "/api/apartments",
+  "/api/bookings/route": "/api/bookings",
+  "/api/payments/initialize/route": "/api/payments/initialize",
+  "/api/payments/verify/route": "/api/payments/verify",
+  "/apartments/[id]/page": "/apartments/[id]",
+  "/booking/confirmation/page": "/booking/confirmation",
+  "/page": "/",
+  "/apartments/page": "/apartments"
+}
